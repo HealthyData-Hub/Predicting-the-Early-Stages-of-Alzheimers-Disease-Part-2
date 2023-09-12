@@ -1,2 +1,2 @@
 # Predicting-the-Early-Stages-of-Alzheimers-Disease-Part-2
- To provide a complete pipeline to develop a deep learning model. More specifically, deep learning for computer vision (2D). Using a multiclass image classification (single label) deep learning model that can predict what stage (refer below) of Alzheimer's a patient is, from their MRI image.  This study will focus on CNN Verus DCGAN (Generative) 
+ To provide a complete pipeline to develop a deep learning model. More specifically, deep learning for computer vision (2D). Using a multiclass image classification (single label) deep learning model that can predict what stage of Alzheimer's a patient is, from their MRI image.  This study will focus on CNN Verus DCGAN (Generative) Architecture
